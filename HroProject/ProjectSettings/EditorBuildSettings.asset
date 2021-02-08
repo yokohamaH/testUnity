@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MarkerOnImage.unity
+    guid: 96825cc6f822e4b4fb62525de1fb0208
+  - enabled: 0
+    path: Assets/Scenes/MarkerOnText.unity
+    guid: 402d0410abef0f3469f8bfb5a13eaaf3
+  - enabled: 0
+    path: Assets/Scenes/VirtualBook1.unity
+    guid: 1cf30e54980caf9488117565872232ad
+  - enabled: 0
+    path: Assets/Scenes/VirtualBook2.unity
+    guid: dfcc95802e1333a4fabb0e03fd967ae2
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/test/FontMiddle.unity
+    guid: bdddb4c3514548d45a32394dc174a397
+  - enabled: 0
+    path: Assets/Scenes/VirtualBook4.unity
+    guid: 1b95d6913092f1a43bf3d908917ab302
+  - enabled: 1
+    path: Assets/Scenes/New Scene.unity
+    guid: ec98ca527b4c9a94eaa8237f236fd668
+  m_configObjects: {}
